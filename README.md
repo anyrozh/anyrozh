@@ -10,7 +10,7 @@
 | [ML HSE](https://github.com/anyrozh/MachineLearning-HSE-2024)                 |                     |                |
 | [DL HSE](https://github.com/anyrozh/ftiad_nlp_hw3)                   |                     |                |
 | [RecSys HSE](https://github.com/anyrozh/RecSys)               |                     |                |
-| [DWH HSE](https://github.com/.../...)                  |                     |                |
+| [DWH HSE](https://github.com/anyrozh/ftiad_dwh_hw3))                  |                     |                |
 | [MultimModel HSE](https://github.com/.../...)          |                     |                |
 | [NLP and RAG HSE](https://github.com/anyrozh/ftiad_nlp_hw3)         |                     |                |
 
